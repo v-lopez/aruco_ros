@@ -2,8 +2,8 @@
 Changelog for package aruco_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2018-02-08)
+------------------
 * Update readme for new coordinates
 * Fix orientation changes in aruco 3.0.0
 * Migration to aruco 3.0.4

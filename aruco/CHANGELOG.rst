@@ -2,8 +2,8 @@
 Changelog for package aruco
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2018-02-08)
+------------------
 * Migration to aruco 3.0.4
 * Merge branch 'indigo-devel' into kinetic-devel
 * Completely remove debug print
