@@ -2,6 +2,19 @@
 Changelog for package aruco
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Migration to aruco 3.0.4
+* Merge branch 'indigo-devel' into kinetic-devel
+* Completely remove debug print
+* Merge pull request `#37 <https://github.com/pal-robotics/aruco_ros/issues/37>`_ from pal-robotics/remove-debug-print
+  Remove debug log msg
+* Remove debug log msg
+* Merge pull request `#29 <https://github.com/pal-robotics/aruco_ros/issues/29>`_ from cehberlin/kinetic-devel
+  forcing opencv3 build for kinetic
+* forcing opencv3 build for kinetic
+* Contributors: Bence Magyar, Christopher Hrabia, Jordi Pages, Victor Lopez
+
 0.2.2 (2017-07-25)
 ------------------
 
